@@ -1,4 +1,4 @@
-# ARP Cache Poisoning & MITM Lab (SEED Labs)
+# ARP Cache Poisoning & MITM Lab 
 
 This project demonstrates ARP cache poisoning attacks using Scapy and Docker containers, and implements man-in-the-middle (MITM) attacks including Telnet and Netcat packet interception.
 
@@ -28,18 +28,4 @@ This project demonstrates ARP cache poisoning attacks using Scapy and Docker con
 - IP forwarding toggle was essential for controlling packet relay and interruption
 - Packet sniffing validated attack success via Wireshark
 
-## 🖼️ Screenshots
-Optionally include screenshots of ARP cache, Wireshark captures, and spoofed Telnet messages.
 
-## 📁 Files
-- `arp-mitm-report.pdf` – Full documentation including code, steps, and observations
-
-## 📄 Author
-**Aparnaa Mahalaxmi Arulljothi**  
-Student ID: A20560995
-
----
-
-## 🔗 References
-- [SEED Labs - ARP Cache Poisoning Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack/)
-- [Scapy Docs](https://scapy.readthedocs.io/en/latest/)
